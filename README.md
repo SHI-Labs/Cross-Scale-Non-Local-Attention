@@ -38,7 +38,7 @@ For more informaiton, please refer to [EDSR(PyTorch)](https://github.com/thstkdg
 
 1. (optional) Download pretrained models for our paper.
 
-    All the models can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1C--KFcfAsvLM4K0J6td4TqNeiaGsTXd_?usp=sharing)
+    All the models and visual results can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1C--KFcfAsvLM4K0J6td4TqNeiaGsTXd_?usp=sharing)
 
 2. Cd to 'src', run the following script to train models.
 
