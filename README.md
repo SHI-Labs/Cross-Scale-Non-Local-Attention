@@ -72,7 +72,7 @@ For more informaiton, please refer to [EDSR(PyTorch)](https://github.com/thstkdg
 ### Quantitative Results
 ![PSNR_SSIM](/Figs/PSNR_SSIM.png)
 
-For more results, please refer to our [paper](https://arxiv.org/abs/2006.01424) and [Supplementary Materials](/Figs/Supplementary_Materials.pdf).
+For more results, please refer to our [paper](https://arxiv.org/abs/2006.01424) and [Supplementary Materials](http://yiqunm2.web.illinois.edu/assets/papers/04292-supp.pdf).
 ### Visual Results
 ![Visual_PSNR_SSIM](/Figs/Visual_1.png)
 
