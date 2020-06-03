@@ -1,7 +1,7 @@
 # Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining 
 This repository is for CSNLN introduced in the following paper
 
-[Yiqun Mei](http://yiqunm2.web.illinois.edu/), [Yuchen Fan](https://scholar.google.com/citations?user=BlfdYL0AAAAJ&hl=en), [Yuqian Zhou](https://yzhouas.github.io/), [Lichao Huang](https://scholar.google.com/citations?user=F2e_jZMAAAAJ&hl=en), [Thomas S. Huang](https://ifp-uiuc.github.io/), and [Humphrey Shi](https://www.humphreyshi.com/), "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR2020, [[PDF]](/Figs/CSNLN.pdf) 
+[Yiqun Mei](http://yiqunm2.web.illinois.edu/), [Yuchen Fan](https://scholar.google.com/citations?user=BlfdYL0AAAAJ&hl=en), [Yuqian Zhou](https://yzhouas.github.io/), [Lichao Huang](https://scholar.google.com/citations?user=F2e_jZMAAAAJ&hl=en), [Thomas S. Huang](https://ifp-uiuc.github.io/), and [Humphrey Shi](https://www.humphreyshi.com/), "Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining", CVPR2020, [[Arxiv]](https://arxiv.org/abs/2006.01424) 
 
 
 The code is built on [EDSR (PyTorch)](https://github.com/thstkdgus35/EDSR-PyTorch) and tested on Ubuntu 18.04 environment (Python3.6, PyTorch_1.1.0) with Titan /Xp, V100 GPUs. 
@@ -72,7 +72,7 @@ For more informaiton, please refer to [EDSR(PyTorch)](https://github.com/thstkdg
 ### Quantitative Results
 ![PSNR_SSIM](/Figs/PSNR_SSIM.png)
 
-For more results, please refer to our [paper](/Figs/CSNLN.pdf) and [Supplementary Materials](/Figs/Supplementary_Materials.pdf).
+For more results, please refer to our [paper](https://arxiv.org/abs/2006.01424) and [Supplementary Materials](/Figs/Supplementary_Materials.pdf).
 ### Visual Results
 ![Visual_PSNR_SSIM](/Figs/Visual_1.png)
 
