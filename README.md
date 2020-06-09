@@ -84,13 +84,11 @@ For more results, please refer to our [paper](https://arxiv.org/abs/2006.01424) 
 ## Citation
 If you find the code helpful in your resarch or work, please cite the following papers.
 ```
-@InProceedings{Mei_2020_CVPR,
-author = {Mei, Yiqun and Fan, Yuchen and Zhou, Yuqian and Huang, Lichao and Huang, Thomas S. and Shi, Honghui},
-title = {Image Super-Resolution With Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining},
-booktitle = {The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
-month = {June},
-year = {2020}
-}
+@inproceedings{Mei2020image,
+  title={Image Super-Resolution with Cross-Scale Non-Local Attention and Exhaustive Self-Exemplars Mining},
+  author={Mei, Yiqun and Fan, Yuchen and Zhou, Yuqian and Huang, Lichao and Huang, Thomas S and Shi, Humphrey},
+  booktitle={Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year={2020}
 @InProceedings{Lim_2017_CVPR_Workshops,
   author = {Lim, Bee and Son, Sanghyun and Kim, Heewon and Nah, Seungjun and Lee, Kyoung Mu},
   title = {Enhanced Deep Residual Networks for Single Image Super-Resolution},
